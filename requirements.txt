@@ -2,3 +2,4 @@ numpy
 torchvision
 torch
 matplotlib
+notebook
