@@ -4,4 +4,3 @@ torch
 matplotlib
 notebook
 torchtyping
-typeguard==2.9
