@@ -4,4 +4,5 @@ torch
 matplotlib
 notebook
 torchtyping
+scipy
 typeguard>=2.11.1
