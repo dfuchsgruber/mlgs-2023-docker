@@ -13,6 +13,6 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Build the MLGS Docker image
         run: |
-              docker build . --tag ghcr.io/wodkarhr/mlgs-2023-docker:latest
-              docker run ghcr.io/wodkarhr/mlgs-2023-docker:latest
-              docker push ghcr.io/wodkarhr/mlgs-2023-docker:latest
+              docker build . --tag ghcr.io/dfuchsgruber/mlgs-2023-docker:latest
+              docker run ghcr.io/dfuchsgruber/mlgs-2023-docker:latest
+              docker push ghcr.io/dfuchsgruber/mlgs-2023-docker:latest
