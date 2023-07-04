@@ -7,3 +7,4 @@ scipy
 typeguard==2.13.3
 torchtyping==0.1.4
 seaborn
+statsmodels
